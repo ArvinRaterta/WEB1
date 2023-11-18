@@ -1,0 +1,49 @@
+/* styles.css */
+
+/* Styling for the heading */
+.page-title {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Styling for the paragraph */
+.intro-paragraph {
+    font-family: 'Helvetica', sans-serif;
+    color: #666;
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 15%; /* Adjust the percentage to your desired size */
+    height: auto;
+    margin-top: 20px;
+}
+.education-section {
+    margin-top: 20px;
+}
+
+.education-section h2 {
+    font-size: 24px;
+    color: #333;
+}
+
+.education-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.education-section li {
+    margin-bottom: 10px;
+    font-size: 18px;
+    color: #555;
+}
+
+.education-section li strong {
+    font-weight: bold;
+    color: #000;
+}
